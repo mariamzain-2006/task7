@@ -1585,3 +1585,6 @@ dashed-divider {
     }
 
 }
+.menu-btn{
+    display: none;
+}
